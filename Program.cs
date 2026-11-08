@@ -88,6 +88,71 @@ if (falsada == 5)
     int zdrowieBohatera = 60;
     int zdrowiePrzeciwnika = 45;
     int liczbaMikstur = 2;
+    int liczbaMikstur2 = 2;
     int numerTury = 1;
+    while(zdrowieBohatera > 0 || zdrowiePrzeciwnika > 0)
+    {
+        Console.Write("Wymierz akcje jaką chcesz zrobić: ");
+        int akcja = int.Parse(Console.ReadLine()!);
+        if(akcja >= 4)
+        {
+         Console.Write("Zła wartość ");
+         continue;
+        }
+        switch (akcja)
+        {
+          case 1:
+          Console.WriteLine("Zaatakowałeś");
+          zdrowiePrzeciwnika = zdrowiePrzeciwnika - 12;
+        break;
+          case 2:
+        
+                    Console.WriteLine("Wybrałeś mikstrure");
+                    zdrowieBohatera = zdrowieBohatera + 15;
+                    liczbaMikstur--;
+                    break;
+        
+        case 3:
     
-}
+             Console.WriteLine("SPIERDALAMY!!!");
+             zdrowieBohatera = zdrowieBohatera - 1000;
+             break;       
+     
+        
+        }}
+        
+        Console.Write("Wymierz akcje jaką chcesz zrobić2 : ");
+        string akcja2 = Console.ReadLine()!;
+        if(akcja2 == "1" || akcja2 == "2" || akcja2 == "3"){
+        switch (akcja2)
+        {
+          case "1":
+          Console.WriteLine("Zaatakowałeś");
+          zdrowieBohatera = zdrowieBohatera - 12;
+        break;
+          case "2":
+        
+                    Console.WriteLine("Wybrałeś mikstrure");
+                    zdrowiePrzeciwnika = zdrowiePrzeciwnika + 15;
+                    liczbaMikstur2--;
+                    break;
+        
+        case "3":
+        
+             Console.WriteLine("SPIERDALAMY!!!");
+             zdrowiePrzeciwnika = zdrowiePrzeciwnika - 1000;
+             break;       
+     
+        }}
+         numerTury++;
+         
+         }
+        
+    
+        
+    
+       
+        
+        
+          
+    
