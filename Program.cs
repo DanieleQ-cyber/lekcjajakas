@@ -115,11 +115,18 @@ if (falsada == 5)
         case 3:
     
              Console.WriteLine("SPIERDALAMY!!!");
-            zdrowieBohatera = zdrowieBohatera - 100;
-             break;       
+                zdrowieBohatera = 0;
+             break;
+                 
      
         
         }
+        if(zdrowieBohatera <= 0)
+        {
+            Console.WriteLine("Przejebałeś");
+            break;
+        }
+         
         
         Console.Write("Wymierz akcje jaką chcesz zrobić2 : ");
         int akcja2 = int.Parse(Console.ReadLine()!);
@@ -144,10 +151,15 @@ if (falsada == 5)
         case 3:
         
              Console.WriteLine("SPIERDALAMY!!!");
-             zdrowiePrzeciwnika = zdrowiePrzeciwnika - 100;
+             zdrowiePrzeciwnika = 0;
              break;       
             
         }
+        if(zdrowiePrzeciwnika <= 0) 
+        {
+            Console.WriteLine("Przejebałeś");
+            break;
+        }  
             numerTury++;
         }
         }
