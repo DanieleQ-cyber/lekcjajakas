@@ -1,0 +1,15 @@
+/Users/daniel/PProg/lekcjajakas/bin/Debug/net10.0/lekcjajakas
+/Users/daniel/PProg/lekcjajakas/bin/Debug/net10.0/lekcjajakas.deps.json
+/Users/daniel/PProg/lekcjajakas/bin/Debug/net10.0/lekcjajakas.runtimeconfig.json
+/Users/daniel/PProg/lekcjajakas/bin/Debug/net10.0/lekcjajakas.dll
+/Users/daniel/PProg/lekcjajakas/bin/Debug/net10.0/lekcjajakas.pdb
+/Users/daniel/PProg/lekcjajakas/obj/Debug/net10.0/lekcjajakas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel/PProg/lekcjajakas/obj/Debug/net10.0/lekcjajakas.AssemblyInfoInputs.cache
+/Users/daniel/PProg/lekcjajakas/obj/Debug/net10.0/lekcjajakas.AssemblyInfo.cs
+/Users/daniel/PProg/lekcjajakas/obj/Debug/net10.0/lekcjajakas.csproj.CoreCompileInputs.cache
+/Users/daniel/PProg/lekcjajakas/obj/Debug/net10.0/lekcjajakas.sourcelink.json
+/Users/daniel/PProg/lekcjajakas/obj/Debug/net10.0/lekcjajakas.dll
+/Users/daniel/PProg/lekcjajakas/obj/Debug/net10.0/refint/lekcjajakas.dll
+/Users/daniel/PProg/lekcjajakas/obj/Debug/net10.0/lekcjajakas.pdb
+/Users/daniel/PProg/lekcjajakas/obj/Debug/net10.0/lekcjajakas.genruntimeconfig.cache
+/Users/daniel/PProg/lekcjajakas/obj/Debug/net10.0/ref/lekcjajakas.dll
