@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danie\\Documents\\github\\lekcjajakas\\lekcjajakas.csproj",
+      "projectUniqueName": "C:\\Users\\danie\\Desktop\\lekcjajakas\\lekcjajakas.csproj",
       "projectName": "lekcjajakas",
-      "projectPath": "C:\\Users\\danie\\Documents\\github\\lekcjajakas\\lekcjajakas.csproj",
+      "projectPath": "C:\\Users\\danie\\Desktop\\lekcjajakas\\lekcjajakas.csproj",
       "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\danie\\Documents\\github\\lekcjajakas\\obj\\",
+      "outputPath": "C:\\Users\\danie\\Desktop\\lekcjajakas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config"
