@@ -5,7 +5,7 @@ on:
 
 env:
   DOTNET_VERSION: 10.0.x   
-  PROJECT_PATH: ./PProg/lekcjajakas/lekcjajakas.csproj
+  PROJECT_PATH: ./lekcjajakas.csproj
 
 
 jobs:
