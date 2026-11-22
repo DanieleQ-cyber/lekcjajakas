@@ -1,6 +1,6 @@
 # <MyApp>
 
-[![Build](https://github.com/<DanieleQ-cyber>/<lekcjajakas>/actions/workflows/build.yml/badge.svg)](https://github.com/<DanieleQ-cyber>/<lekcjajakas>/actions/workflows/build.yml)
+[![Build](https://github.com/DanieleQ-cyber/lekcjajakas/actions/workflows/build.yml/badge.svg)](https://github.com/DanieleQ/lekcjajakas/actions/workflows/build.yml)
 
 Aplikacja konsolowa .NET przygotowana w ramach przedmiotu Warsztat Programisty.
 
