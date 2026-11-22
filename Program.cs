@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.Design.Serialization;
 
-Console.Writ("Jaki program chcesz odpalić?: ");
-int falsada = int.Pars(Console.ReadLine()!);
+Console.Write("Jaki program chcesz odpalić?: ");
+int falsada = int.Parse(Console.ReadLine()!);
 if (falsada==1){
 Console.Write("Podaj kierunek w jakim idziesz: północ = 1, południe = 2, wschód = 3, zachód = 4: ");
 int kierunek = int.Parse(Console.ReadLine()!);
