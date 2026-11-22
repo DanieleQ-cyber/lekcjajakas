@@ -96,7 +96,7 @@ if (falsada == 5)
         int akcja = int.Parse(Console.ReadLine()!);
         if(akcja >= 4)
         {
-         Console.Write("Zła wartość ");
+         Console.Write("Zła wartośćc ");
          continue;
         }
         switch (akcja)
